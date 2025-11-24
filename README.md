@@ -26,3 +26,17 @@ The final model achieves **57.95% test accuracy**, which is a solid result for a
 - Metrics: accuracy, precision, recall, F1-score  
 - Training & test loss curves visualization  
 
+
+
+---
+
+## Experiments Summary
+
+Across the experiments, several observations were made:
+
+- Lower learning rates improved stability  
+- High learning rates (e.g., **0.01**) caused the model to fail completely (stuck at **10% accuracy**)  
+- Adding more hidden layers increased training accuracy but did not always improve generalization  
+- Dropout and weight decay helped reduce overfitting  
+- Early stopping prevented wasted training time  
+- The best model reached **57.95% test accuracy**, which is strong for MLPs on CIFAR-10  
