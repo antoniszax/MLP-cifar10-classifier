@@ -40,3 +40,22 @@ Across the experiments, several observations were made:
 - Dropout and weight decay helped reduce overfitting  
 - Early stopping prevented wasted training time  
 - The best model reached **57.95% test accuracy**, which is strong for MLPs on CIFAR-10  
+
+
+---
+
+## Files
+
+- Open MLP1.ipynb on google collab
+- The complete analysis, graphs, and experiment discussion can be found in: Zachariadis_Report1.pdf
+
+
+
+
+
+
+
+
+
+
+
