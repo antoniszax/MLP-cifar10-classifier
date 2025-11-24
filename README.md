@@ -46,8 +46,8 @@ Across the experiments, several observations were made:
 
 ## Files
 
-- Open MLP1.ipynb on google collab
-- The complete analysis, graphs, and experiment discussion can be found in: Zachariadis_Report1.pdf
+- Open MLP1.ipynb file on google collab
+- The complete analysis, graphs, and experiment discussion can be found in the other file: Zachariadis_Report1.pdf
 
 
 
